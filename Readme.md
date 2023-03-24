@@ -1,6 +1,6 @@
-# Laboratorio - Primeiro Periodo
+## Laboratório de Programação de Computadores I - Primeiro Período
 
-----Registros do meu primeiro contato com a programação---- <br><br>
+<i>`---- Registros do meu primeiro contato com a programação ----` <i> <br><br>
 
 
 #### - Atividades realizadas no 1º período para a disciplina de Laboratório de Programação de Computadores I.
@@ -15,6 +15,6 @@ Esse pequeno exemplo possui um arquivo Makefile que realiza todo o procedimento 
 
 | Comando                |  Função                                                                                           |                     
 | -----------------------| ------------------------------------------------------------------------------------------------- |
-|  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
+|  `make clean`          | Apaga a última compilação realizada contida na pasta build|
 |  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
-|  `make run`            | Executa o programa da pasta build após a realização da compilação 
+|  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
